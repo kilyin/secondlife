@@ -30,3 +30,7 @@
 /secondlife/Debug
 /ipch/secondlife-c7f83c6f
 *.suo
+
+# Other
+*.opensdf
+ipch
