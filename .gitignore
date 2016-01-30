@@ -26,11 +26,17 @@
 *.exe
 *.out
 *.app
+*.pdb
 /Debug
 /secondlife/Debug
 /ipch/secondlife-c7f83c6f
 *.suo
 
 # Other
+*.log
+*.tlog
 *.opensdf
-ipch
+/ipch
+/Engine/Debug
+/Engine/Debug/*
+/EngineTests/Debug

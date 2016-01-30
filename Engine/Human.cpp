@@ -6,15 +6,15 @@
 #include <string>
 using namespace std;
 
-class Human
+namespace Engine 
 {
-    Human(string name)
+
+    Human::Human()
+    {
+    };
+
+    Human::~Human()
     {
 
-    }
-
-    ~Human()
-    {
-
-    }
-};
+    };
+}
